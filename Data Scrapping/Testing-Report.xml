@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="6" passed="6" failures="0" execution-date="09/28/2022 18:08:04" total-time="00:10:23">
+  <Result>
+    <TestScenario>Data Scraping Report process</TestScenario>
+    <TestName>Main</TestName>
+    <Started>09/28/2022 18:07:02</Started>
+    <Ended>09/28/2022 18:08:04</Ended>
+    <Status>FAILED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Data Scraping Report process</TestScenario>
+    <TestName>Main</TestName>
+    <Started>09/28/2022 18:09:44</Started>
+    <Ended>09/28/2022 18:11:27</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Data Scraping Report process</TestScenario>
+    <TestName>Main</TestName>
+    <Started>09/28/2022 18:21:25</Started>
+    <Ended>09/28/2022 18:22:54</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Data Scraping Report process</TestScenario>
+    <TestName>Main</TestName>
+    <Started>10/02/2022 12:01:43</Started>
+    <Ended>10/02/2022 12:03:50</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Data Scraping Report process</TestScenario>
+    <TestName>Main</TestName>
+    <Started>10/05/2022 14:11:19</Started>
+    <Ended>10/05/2022 14:13:09</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Data Scraping Report process</TestScenario>
+    <TestName>Main</TestName>
+    <Started>10/06/2022 15:28:12</Started>
+    <Ended>10/06/2022 15:30:24</Ended>
+    <Status>PASSED</Status>
+  </Result>
+</Test-Suite>

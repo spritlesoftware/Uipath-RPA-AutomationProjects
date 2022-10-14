@@ -14,7 +14,7 @@ RAM	Minimum 4 GB	Maximum 8 GB,
 
 Windows 8 and Above. 
 
-Insatllation 
+Installation 
 
 Sign Up into automation cloud https://cloud.uipath.com/.
 

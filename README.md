@@ -37,3 +37,17 @@ UiPath Orchestrator - Automation Cloud
 UiPath Assistant 
 
 ![image](https://user-images.githubusercontent.com/100189977/195811819-1b6a1136-4e60-48b9-9e47-afded04362b0.png)
+
+UiPath Automation
+
+Multiple Automations can be developed used the Activites in the Activity Pane such as Excel Automation, Word Automation, Email Automation Within the scope 
+
+The Automation flow can be recorded using record option and exported as a Workflow
+
+Frameworks can be used to understand the sequence and workflow with the inbuild Variables and Arguments 
+
+Testing can also carried out using Test Manager.The test cases and test suites also Created with the help of test manager 
+
+Mobile Application testing can be done using Mobile Automation. 
+
+The Execution reports can be generated using the packages inside the Uipath Stuido 

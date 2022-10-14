@@ -18,7 +18,7 @@ Installation
 
 Sign Up into automation cloud https://cloud.uipath.com/.
 
-Insatll the Free community Edition for learning purpose. 
+Install the Free community Edition for learning purpose. 
 
 Login into the Studio for Developement 
 

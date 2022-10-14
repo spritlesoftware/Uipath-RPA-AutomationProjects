@@ -20,7 +20,7 @@ Sign Up into automation cloud https://cloud.uipath.com/.
 
 Install the Free community Edition for learning purpose. 
 
-Login into the Studio for Developement 
+Login into the Studio for Development 
 
 Login into Automation Cloud to get the Orchestrator where the published processes and Robot Were managed
 

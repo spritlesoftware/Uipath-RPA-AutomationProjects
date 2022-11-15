@@ -1,6 +1,3 @@
-
-
-=======
 UiPath
 
 UiPath is a Robotic Process Automation Tool to Create Manual and repeated iterative processes in an Automated way to reduce manpower and save time. UiPath is one of the best RPA Tools which makes the development and deployment process easier. 
@@ -53,4 +50,4 @@ Testing can also carried out using Test Manager.The test cases and test suites a
 
 Mobile Application testing can be done using Mobile Automation. 
 
-The Execution reports can be generated using the packages inside the Uipath Stuido 
+The Execution reports can be generated using the packages inside the Uipath Studio 

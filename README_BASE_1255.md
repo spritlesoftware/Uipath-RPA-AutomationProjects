@@ -1,1 +1,0 @@
-# ui-path-rpa-sarniga
